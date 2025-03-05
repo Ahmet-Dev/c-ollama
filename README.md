@@ -35,7 +35,6 @@
 
 ### 💼 **Professional UI**
 - Fully integrated with VS Code’s native UI with dedicated panels for **Chat**, **Automations**, and **Settings**.
-- Enhanced branding with a sleek logo and favicon for a polished experience.
 
 ### 🧠 **Token Management**
 - Automatically creates folders and files based on project needs.
